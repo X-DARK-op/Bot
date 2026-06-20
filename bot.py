@@ -32,9 +32,9 @@ intents.members = True
 bot = commands.Bot(command_prefix='!', intents=intents, help_command=None)
 
 # Main admin user ID
-MAIN_ADMIN_ID = 1251119503492775956
+MAIN_ADMIN_ID = 1427636685595742260
 # VPS User Role ID
-VPS_USER_ROLE_ID = 1431499643698544720
+VPS_USER_ROLE_ID = 1465032080793796862
 # Docker image to use for VPS containers
 DOCKER_IMAGE = "ubuntu:22.04"
 # SSH port range for containers
